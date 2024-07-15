@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+export(bayesian_finemap)
+export(simulate_data)
+

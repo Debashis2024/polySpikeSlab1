@@ -1,0 +1,13 @@
+Package: polySpikeSlab1
+Type: Package
+Title: Bayesian Fine-Mapping for Genomic Studies
+Version: 0.1.0
+Authors@R: person("Debashis", "Chatterjee", email = "your.email@example.com", role = c("aut", "cre"))
+Description: This package provides functions to perform Bayesian fine-mapping in genomic studies using a spike-and-slab prior.
+Depends: R (>= 3.5.0)
+Imports: qtl, MCMCpack, coda, ggplot2, missForest, tidyr, susieR
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+
